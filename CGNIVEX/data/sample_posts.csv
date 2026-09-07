@@ -1,0 +1,21 @@
+post_id,user_id,timestamp,platform,text,topic,label
+P1001,user_101,2026-08-01 09:15:00,Reddit,"I am feeling extremely overwhelmed by my upcoming university final exams. I can't sleep at night and my mind won't stop racing.",Academic pressure,Anxiety/Stress
+P1002,user_102,2026-08-01 10:30:00,Twitter,"Had a wonderful morning walk in the park! Sunshine and fresh air really brightened my mood today.",General wellbeing,Joy
+P1003,user_103,2026-08-01 14:20:00,Forum,"Lately I feel so isolated and disconnected from all my college friends. Nobody seems to reach out anymore.",Loneliness,Sadness
+P1004,user_104,2026-08-02 08:45:00,Reddit,"My work schedule is completely draining me. Working 12 hours a day with zero appreciation from management.",Work pressure,Anxiety/Stress
+P1005,user_105,2026-08-02 11:10:00,Twitter,"Just finished reading a fantastic book on mindfulness. Highly recommend it to anyone seeking inner peace!",General wellbeing,Positive
+P1006,user_106,2026-08-02 16:00:00,Forum,"I haven't been able to sleep more than 3 hours a night for two weeks straight. Everything feels like a struggle.",Sleep,Anxiety/Stress
+P1007,user_101,2026-08-03 09:00:00,Reddit,"Another sleepless night worrying about my thesis submission deadline. The panic attacks are getting worse.",Academic pressure,Fear
+P1008,user_107,2026-08-03 13:15:00,Twitter,"Why is everyone so toxic online nowadays? It just makes me so angry and frustrated.",Relationships,Anger
+P1009,user_108,2026-08-03 18:30:00,Forum,"Feeling grateful for a relaxing weekend spent with family and good food.",General wellbeing,Joy
+P1010,user_103,2026-08-04 10:05:00,Forum,"Still feeling very down and empty inside. It feels hard to even get out of bed in the morning.",Depression,Sadness
+P1011,user_109,2026-08-04 14:50:00,Reddit,"Midterm exam results are out next week and I am terrified that I failed the main engineering module.",Academic pressure,Fear
+P1012,user_110,2026-08-05 08:20:00,Twitter,"A steady routine, good hydration, and light exercise have made a huge positive difference in my day.",General wellbeing,Positive
+P1013,user_104,2026-08-05 12:40:00,Reddit,"Burnout is real. I feel like quitting my job every single morning when the alarm rings.",Work pressure,Anxiety/Stress
+P1014,user_111,2026-08-05 17:15:00,Forum,"Argued with my best friend yesterday over something petty. Now we are not speaking to each other.",Relationships,Anger
+P1015,user_106,2026-08-06 09:30:00,Forum,"Insomnia again. Tried meditation and warm tea but my thoughts are just spinning out of control.",Sleep,Anxiety/Stress
+P1016,user_112,2026-08-06 11:00:00,Twitter,"Standard update on daily tasks. Nothing special happening today.",General wellbeing,Neutral
+P1017,user_101,2026-08-06 15:45:00,Reddit,"I am reaching my breaking point with exam stress. I feel completely helpless and constant dread.",Academic pressure,Anxiety/Stress
+P1018,user_103,2026-08-07 10:20:00,Forum,"Trying to stay hopeful despite feeling lonely. Joined a local hobby club today!",Loneliness,Positive
+P1019,user_113,2026-08-07 14:00:00,Reddit,"Project presentation is tomorrow morning. Trembling and unable to focus on my slides.",Academic pressure,Fear
+P1020,user_114,2026-08-07 19:30:00,Twitter,"Celebrating a small win today! Managed to complete all my weekly goals ahead of schedule.",General wellbeing,Joy
